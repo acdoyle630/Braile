@@ -1,0 +1,20 @@
+{
+  "name": "Braile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -- watch test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdoyle630/Braile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdoyle630/Braile/issues"
+  },
+  "homepage": "https://github.com/acdoyle630/Braile#readme"
+}
